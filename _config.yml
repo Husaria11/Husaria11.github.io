@@ -13,10 +13,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"
 
 # Site Settings
-locale: "en-US"
-title: "Site Title"
+locale: "pl-PL"
+title: "Husaria"
 name: "Your Name"
-description: "An amazing website."
+description: "Harcerze nie klaszczą"
 url: "https://husaria11.github.io"
 baseurl: ""
 repository: "husaria11/husaria11.github.io"
